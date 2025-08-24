@@ -32,7 +32,7 @@ check my website
         }
     </style>
 </head>
-<body>
+<body> 
     <h1>Tushar Shrivastava</h1>
     <img src="photo1.jpg" alt="Tushar Shrivastava">
     <img src="photo2.jpg" alt="Tushar Shrivastava">
