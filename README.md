@@ -42,6 +42,6 @@ check my website
         Here you can know more about me and see some of my photos.
     </p>
     <h2>Contact</h2>
-    <p>Email: [Apna email id daal sakte ho]</p>
+    <p>Email: [amansrivastav9803@gmail.com]</p>
 </body>
 </html>
